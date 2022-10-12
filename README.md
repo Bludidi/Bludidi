@@ -9,5 +9,17 @@
 - 👯 So far I am able to use `HTML` `CSS` `JavaScript` `Bootstrap` `SASS` `Webpack` and `Jest`
 - 🤔 I’m looking forward to collaborate in other people's projects
 - 😄 Pronouns: [He/Him]
-- ⚡ Fun fact: I am a huge fan of Tech N9ne's music 
+- ⚡ Fun fact: I am a huge fan of Tech N9ne's music🎧 
 
+<br />
+<h3> 👱 Visitors count </h3>
+<img src="https://profile-counter.glitch.me/Bludidi/count.svg" />
+<br><br>
+
+# Github's Status
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bludidi&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Osoro254Alex" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bludidi&theme=tokyonight&show_icons=true&locale=en" alt="Osoro254Alex" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bludidi&theme=tokyonight" alt="Osoro254Alex" /></p>
