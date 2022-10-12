@@ -16,6 +16,20 @@
 <img src="https://profile-counter.glitch.me/Bludidi/count.svg" />
 <br><br>
 
+<h3>Connect with me</h3>
+
+<div style="margin-top:10px">
+  <div>
+    <a  href="https://www.linkedin.com/in/brian-ludidi-92754174/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
+    </a>
+    <a href="https://twitter.com/ALEX14809153" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+    </a>
+  </div>
+</div>
+<p>
+
 # Github's Status
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bludidi&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Osoro254Alex" /></p>
