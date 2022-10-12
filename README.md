@@ -14,7 +14,7 @@
 <br />
 <h3> 👱 Visitors count </h3>
 <img src="https://profile-counter.glitch.me/Bludidi/count.svg" />
-<br><br>
+<br />
 
 <h3>Connect with me</h3>
 
