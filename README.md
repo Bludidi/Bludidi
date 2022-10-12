@@ -23,9 +23,14 @@
     <a  href="https://www.linkedin.com/in/brian-ludidi-92754174/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
     </a>
-    <a href="https://twitter.com/ALEX14809153" target="_blank">
+    <a href="https://twitter.com/BB_Ludidi" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
+    <p>
+  <a href="mailto:bludidi5@gmail.com@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+</p>
   </div>
 </div>
 <p>
