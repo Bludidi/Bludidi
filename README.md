@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on the **To-Do-List App**
-- 🌱 I’m currently learning JavaScript module bundler **Webpack**, and testing using **Jest**
+- 🔭 I’m currently working on the **Leaderboard App**
+- 🌱 I’m currently learning JavaScript module bundler **Webpack**, testing using **Jest** and **API's**
 - 👯 So far I am able to use `HTML` `CSS` `JavaScript` `Bootstrap` `SASS` `Webpack` and `Jest`
 - 🤔 I’m looking forward to collaborate in other people's projects
 - 😄 Pronouns: [He/Him]
