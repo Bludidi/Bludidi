@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I am a huge fan of Tech N9ne's music🎧 
 
 <br />
-<h3> 👱 Visitors count </h3>
+<h3> 👱 Visits counter </h3>
 <img src="https://profile-counter.glitch.me/Bludidi/count.svg" />
 <br />
 
@@ -35,7 +35,7 @@
 </div>
 <p>
 
-# Github's Status
+# Github's Statistics 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bludidi&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Osoro254Alex" /></p>
 
