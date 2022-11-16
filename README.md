@@ -34,7 +34,12 @@
   </div>
 </div>
 <p>
+  
+  <!--- Computer jokes --->
+### wanna hear a joke?😅
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
+  
 # Github's Statistics 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bludidi&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Osoro254Alex" /></p>
