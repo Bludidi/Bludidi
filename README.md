@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on the **Math-Magicians App** with `React`
-- 🌱 I’m currently learning JavaScript module bundler **Webpack**, testing using **Jest** and **API's**
+- 🌱 I’m currently learning **React** and **Redux**
 - 👯 So far I am able to use `HTML` `CSS` `JavaScript` `Bootstrap` `SASS` `Webpack` `Jest` and `API's`
 - 🤔 I’m looking forward to collaborate in other people's projects
 - 😄 Pronouns: [He/Him]
