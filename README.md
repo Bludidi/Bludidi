@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on the **Math-Magicians App** with `React`
+- 🔭 I’m currently working on the **Capstone 3** with `React`
 - 🌱 I’m currently learning **React** and **Redux**
-- 👯 So far I am able to use `HTML` `CSS` `JavaScript` `Bootstrap` `SASS` `Webpack` `Jest` and `API's`
+- 👯 So far I am able to use `HTML` `CSS` `JavaScript` `React` `Redux` `Bootstrap` `SASS` `Webpack` `Jest` and `API's`
 - 🤔 I’m looking forward to collaborate in other people's projects
 - 😄 Pronouns: [He/Him]
 - ⚡ Fun fact: I am a huge fan of Tech N9ne's music🎧 
