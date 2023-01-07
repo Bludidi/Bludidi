@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on the **vet-clinic** with `PostgreSQL`
-- 🌱 I’m currently learning **Database** and **PostgreSQL**
+- 🌱 I’m currently learning **Database**, **PostgreSQL** and **Ruby**
 - 👯 So far I am able to use `HTML` `CSS` `JavaScript` `React` `Redux` `Bootstrap` `SASS` `Webpack` `Jest` and `API's`
 - 🤔 I’m looking forward to collaborate in other people's projects
 - 😄 Pronouns: [He/Him]
