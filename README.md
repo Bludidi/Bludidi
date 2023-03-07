@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on the **vet-clinic** with `PostgreSQL`
+- 🔭 I’m currently working on the **BlogApp** with `Rails` and `PostgreSQL`
 - 🌱 I’m currently learning **Database**, **PostgreSQL** and **Ruby**
-- 👯 So far I am able to use `HTML` `CSS` `JavaScript` `React` `Redux` `Bootstrap` `SASS` `Webpack` `Jest` and `API's`
+- 👯 So far I am able to use `HTML` `CSS` `JavaScript` `React` `Redux` `Ruby` `Ruby on Rails` `Postgresql` `Bootstrap` `SASS` `Webpack` `Jest` and `API's`
 - 🤔 I’m looking forward to collaborate in other people's projects
 - 😄 Pronouns: [He/Him]
 - ⚡ Fun fact: I am a huge fan of Tech N9ne's music🎧 
