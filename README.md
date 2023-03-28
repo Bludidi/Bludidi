@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on the **BlogApp** with `Rails` and `PostgreSQL`
-- 🌱 I’m currently learning **Database**, **PostgreSQL** and **Ruby**
+- 🌱 I’m currently learning **Database**, **PostgreSQL**, **Ruby** and **Rails**
 - 👯 So far I am able to use `HTML` `CSS` `JavaScript` `React` `Redux` `Ruby` `Ruby on Rails` `Postgresql` `Bootstrap` `SASS` `Webpack` `Jest` and `API's`
 - 🤔 I’m looking forward to collaborate in other people's projects
 - 😄 Pronouns: [He/Him]
