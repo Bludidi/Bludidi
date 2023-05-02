@@ -44,6 +44,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bludidi&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Bludidi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bludidi&theme=tokyonight&show_icons=true&locale=en" alt="Osoro254Alex" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bludidi&theme=tokyonight&show_icons=true&locale=en" alt="Bludidi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bludidi&theme=tokyonight" alt="Bludidi" /></p>
