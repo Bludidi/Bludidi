@@ -9,7 +9,7 @@
 - 👯 So far I am able to use `HTML` `CSS` `JavaScript` `React` `Redux` `Ruby` `Ruby on Rails` `Postgresql` `Bootstrap` `SASS` `Webpack` `Jest` and `API's`
 - 🤔 I’m looking forward to collaborate in other people's projects
 - 😄 Pronouns: [He/Him]
-- ⚡ Fun fact: I am a huge fan of <em>[Tech N9ne](www.strangemusicinc.com)</em>'s music🎧 
+- ⚡ Fun fact: I am a huge fan of <em>[Tech N9ne](https://www.strangemusicinc.com)</em>'s music🎧 
 
 <br />
 <h3> 👱 Visits counter </h3>
