@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on the ***[Vehi-Go](https://github.com/Bludidi/Exocars-front-end)*** project
 - 🌱 I’m currently learning **Database**, **PostgreSQL**, **Ruby** and **Rails**
-- 👯 So far I am able to use `HTML` `CSS` `JavaScript` `React` `Redux` `Ruby` `Ruby on Rails` `Postgresql` `Bootstrap` `SASS` `Webpack` `Jest` and `API's`
-- 🤔 I’m looking forward to collaborate in other people's projects
+- 👯 I have built projects with `HTML` `CSS` `JavaScript` `React` `Redux` `Ruby` `Ruby on Rails` `Postgresql` `Bootstrap` `SASS` `Webpack` `Jest` and `API's`
+- 🤔 I’m eager to collaborate on open-source projects
 - 😄 Pronouns: [He/Him]
 - ⚡ Fun fact: I am a huge fan of <em>[Tech N9ne](https://www.strangemusicinc.com)</em>'s music🎧 
 
