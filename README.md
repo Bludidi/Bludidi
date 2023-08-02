@@ -1,12 +1,12 @@
 <h1 align='center' style = 'margin-top:50px'>𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Brian Buntu Ludidi</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=an+aspiring+Full-stack+developer;kindly+follow+me;and+give+a+⭐+to+any+repo+you+liked.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=a+passionate+Full-stack+developer;kindly+follow+me;and+give+a+⭐+to+any+repo+you+liked.;)](https://git.io/typing-svg)
 
 
 
 - 🔭 I’m currently working on the ***[Vehi-Go](https://github.com/Bludidi/Exocars-front-end)*** project
 - 🌱 I’m currently learning **Database**, **PostgreSQL**, **Ruby** and **Rails**
-- 👯 I have built projects with `HTML` `CSS` `JavaScript` `React` `Redux` `Ruby` `Ruby on Rails` `Postgresql` `Bootstrap` `SASS` `Webpack` `Jest` and `API's`
+- 👯 I have built projects with `HTML` `CSS` `JavaScript` `React` `Redux` `Ruby` `Ruby on Rails` `Postgresql` `Bootstrap` `SASS` `Webpack` `Jest` and `RESTful API's`
 - 🤔 I’m eager to collaborate on open-source projects
 - 😄 Pronouns: [He/Him]
 - ⚡ Fun fact: I am a huge fan of <em>[Tech N9ne](https://www.strangemusicinc.com)</em>'s music🎧 
