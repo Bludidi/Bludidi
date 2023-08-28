@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on the ***[Vehi-Go](https://github.com/Bludidi/Exocars-front-end)*** project
+- 🔭 I’m currently working on the ***[my portfolio](https://github.com/Bludidi/Exocars-front-end)*** project
 - 🌱 I’m currently learning **Database**, **PostgreSQL**, **Ruby** and **Rails**
 - 👯 I have built projects with `HTML` `CSS` `JavaScript` `React` `Redux` `Ruby` `Ruby on Rails` `Postgresql` `Bootstrap` `SASS` `Webpack` `Jest` and `RESTful API's`
 - 🤔 I’m eager to collaborate on open-source projects
