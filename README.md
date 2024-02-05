@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on my ***[portfolio](https://bludidi-portfolio.vercel.app)*** project
+- 🔭 I’m currently working on my ***miBlog App*** project
 - 👯 I have built projects with `HTML` `CSS` `JavaScript` `React` `Redux` `Ruby` `Ruby on Rails` `Postgresql` `Bootstrap` `SASS` `Tailwind CSS` `Webpack` `Jest` and `RESTful API's`
 - 🤔 I’m eager to collaborate on open-source projects
 - 😄 Pronouns: [He/Him]
